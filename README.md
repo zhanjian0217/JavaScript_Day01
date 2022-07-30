@@ -1,1 +1,1 @@
-# JavaScript_Day01
+# JavaScript_Day 1
